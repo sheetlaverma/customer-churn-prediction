@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# MS Office Temp Files
+~$*
+
+# Jupyter Checkpoints
+.ipynb_checkpoints/
